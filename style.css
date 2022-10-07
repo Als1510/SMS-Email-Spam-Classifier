@@ -1,0 +1,5 @@
+#MainMenu {visibility: hidden;}
+footer { visibility: hidden; }
+.center{ text-align: center; }
+.success { color: green; }
+.warning { color: red; }
